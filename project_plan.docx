@@ -5,10 +5,12 @@ Project Plan
 2. Check to see if cleaning is necessary.
 
 4/28 Data Transformation
-
+1. See if box_cox or log is appropriate for the data.
+2. Compare transformations with original.
 
 4/29 Model Building
-
+1. Create as many models as possible to see which one is best predictive. 
+2. Compare models.
 
 5/1 Model Tuning
 
